@@ -1,0 +1,32 @@
+.channel-row {
+	display: flex;
+	align-items: center;
+	padding: 30px 30px;
+	width: 80%;
+}
+
+.channel-row img.channel-image {
+	width: 120px;
+	border-radius: 50%;
+	margin: 0 40px;
+}
+
+.channel-row .text {
+	color: #555;
+}
+
+.channel-row .text h4 {
+	margin-bottom: 10px;
+}
+
+.channel-row .text .secondary-text {
+	color: #666;
+}
+
+.channel-row button {
+	background-color: #cc0000;
+	color: #fff;
+	border: none;
+	padding: 12px 15px;
+	font-weight: 600;
+}
